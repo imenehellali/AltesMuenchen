@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/IntroScene.unity
+    guid: 1b904c8381a59124bb72b8fb5dbb4f80
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMap.unity
+    guid: 1ecc8eeac8fe0e045aa4c60607152f01
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/TownSquareScene.unity
+    guid: ae7660d7d71fb9940b73a60fecca01f5
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WoodsScene.unity
+    guid: 3873412312499194a81ae4e6974d4b04
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/MCHomeTownScene.unity
+    guid: 011b362d371bad942a5d3e613f7bb025
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/MainCharacter.unity
+    guid: bc4d7b520b4cc3b479fe9507bc796e94
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World00.unity
+    guid: f7548a23a67582846a2c784889b7e8b8
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World01.unity
+    guid: 85dfade6a6f0d9d499d18f67fea1c805
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World02.unity
+    guid: af410cc3556bd8144a8a69660ed973c1
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World03.unity
+    guid: 4e26455dbdb27da47a687381370f23d4
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World10.unity
+    guid: c13467127a96b8b4bb6341fca3d52fbe
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World11.unity
+    guid: 8a76eb1826f18c44f991286f259bd08b
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World12.unity
+    guid: 2028125cd14a98844a83b386f5764565
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World13.unity
+    guid: ff6a2855df02bfb44b97d6e0f5fdb805
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World20.unity
+    guid: adab0eeb3cee0ab49ad5aef0681f31d3
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World21.unity
+    guid: 751d067ab67e08041a8ea6075779519e
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World22.unity
+    guid: 88d5ecb35f4425742915f121aa1ce8a8
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World23.unity
+    guid: 9a120173b0add0b45985490157cac51a
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World30.unity
+    guid: dbcc2c2c48ef2a64e8e65f77b443edaf
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World31.unity
+    guid: 6f0eb6827d154394b9f143c90bc6de16
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World32.unity
+    guid: 23283c0ed9ae38a4d9da8bb3ace64c53
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/WorldMapsPG/World33.unity
+    guid: 6d5cf197b023aff4889c7f928979b736
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/TownSquareNPC.unity
+    guid: 7c9a66609a0df964eb4b12d4ee202310
+  - enabled: 1
+    path: Assets/Scenes/GameScenes/GameUI.unity
+    guid: 3ae9e80b926cc2a45ad22b0f44e6b740
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}
